@@ -1,4 +1,5 @@
-### Olá, sou o Natã Almeida Gago, seja bem-vindo ao meu perfil 👋
+### Olá, sou o Natã Almeida Gago, seja bem-vindo ao meu perfil <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+
 <div align="center">
   <a href="https://github.com/NataGago">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NataGago&show_icons=true&theme=github_dark"/>
