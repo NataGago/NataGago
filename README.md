@@ -1,6 +1,9 @@
 ### Natã Almeida Gago 👋
-![Natã Gago's GitHub stats](https://github-readme-stats.vercel.app/api?username=NataGago&show_icons=true&theme=github_dark)
-![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataGago&layout=compact&theme=github_dark)
+<div align="center">
+  <a href="https://github.com/NataGago">
+  <img height="180em" src="![Natã Gago's GitHub stats](https://github-readme-stats.vercel.app/api?username=NataGago&show_icons=true&theme=github_dark)"/>
+  <img height="180em" src="![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataGago&layout=compact&theme=github_dark)"/>
+ </div>
 <!--
 **NataGago/NataGago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
