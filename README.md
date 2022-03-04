@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Natã Almeida Gago 👋
+![Natã Gago's GitHub stats](https://github-readme-stats.vercel.app/api?username=NataGago&show_icons=true)
+[![Natã Gago's GitHub stats](https://github-readme-stats.vercel.app/api?username=NataGago)](https://github.com/NataGago/github-readme-stats)
 <!--
 **NataGago/NataGago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
