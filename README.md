@@ -1,4 +1,4 @@
-### Natã Almeida Gago 👋
+### Olá, sou o Natã Almeida Gago, seja bem-vindo ao meu perfil 👋
 <div align="center">
   <a href="https://github.com/NataGago">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NataGago&show_icons=true&theme=github_dark"/>
