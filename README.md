@@ -1,9 +1,7 @@
 ### Natã Almeida Gago 👋
 <div align="center">
   <a href="https://github.com/NataGago">
-  ![Natã Gago's GitHub stats]
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NataGago&show_icons=true&theme=github_dark"/>
-  ![Most Used Langs]
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NataGago&layout=compact&theme=github_dark"/>
  </div>
 <!--
